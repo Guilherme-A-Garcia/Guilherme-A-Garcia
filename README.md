@@ -8,7 +8,10 @@
 
 # 🚧 GitHub Stats
 It's not much, but take into consideration the fact that I committed a whole lot for my [capstone project](https://github.com/kiryusec/voz-do-aluno) under [my alternative account](https://github.com/Havoc-DLL).<br><br>
-![](https://github-readme-stats.vercel.app/api?username=Guilherme-A-Garcia&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
+![If you're seeing this, the tracker is temporarily down. Try checking in a few minutes](https://github-readme-stats.vercel.app/api?username=Guilherme-A-Garcia&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Guilherme-A-Garcia&theme=shadow_red&hide_border=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-A-Garcia&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-A-Garcia)](https://github.com/Guilherme-A-Garcia/github-readme-stats)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
