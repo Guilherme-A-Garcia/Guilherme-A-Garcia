@@ -1,6 +1,8 @@
 # ✨ 'Bout Me
-  Hello. I'm a Brazilian Systems Development Technician, always seeking to become a better, more independent and knowledgeable person.<br><br>  
-  Currently reviewing the tech I studied during the technical course and learning <br>basic cybersecurity, along with polishing and publishing a few simple personal projects.<br><br>  I have a nice grasp on Python, HTML, CSS and JS;<br>  I'm learning Java, Dart and Flutter. I'm also interested in learning C++ and C#.<br><br>
+  Hello. I'm a Systems Development Technician, always seeking to become a better, more independent and knowledgeable person.<br> 
+  Currently reviewing the tech I studied during the technical course and learning <br>
+  basic cybersecurity, along with polishing and publishing a few simple personal projects.<br>
+    I have a nice grasp on Python, HTML, CSS and JS;<br>  I'm learning Java, Dart and Flutter. I'm also interested in learning C++ and C#.<br><br>
 
 
 # 👨🏻‍💻 Tech Stack
