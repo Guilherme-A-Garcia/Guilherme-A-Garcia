@@ -2,7 +2,7 @@
   Hello. I'm a Systems Development Technician, always seeking to become a better, more independent and knowledgeable person.<br> 
   Currently reviewing the tech I studied during the technical course and learning <br>
   basic cybersecurity, along with polishing and publishing a few simple personal projects.<br>
-    I have a nice grasp on Python, HTML, CSS and JS;<br>  I'm learning Java, Dart and Flutter. I'm also interested in learning C++ and C#.<br><br>
+  I have a nice grasp on Python, HTML, CSS and JS;<br>  I'm learning Java, Dart and Flutter. I'm also interested in learning C++ and C#.<br><br>
 
 
 # 👨🏻‍💻 Tech Stack
@@ -12,4 +12,7 @@
 It's not much, but take into consideration the fact that I committed a whole lot for my [capstone project](https://github.com/kiryusec/voz-do-aluno) under my [alternative account](https://github.com/Havoc-DLL) (If you don't see any stats below this text, the service is temporarily offline).<br>
 ![](https://github-readme-stats.shion.dev/api?username=Guilherme-A-Garcia&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Guilherme-A-Garcia&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-A-Garcia&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-A-Garcia&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br>
+
+Note: if you see extra contributions/commits that don't seem to be connected to any public repository, I am currently<br>
+tracking progress in parallel programming language studies in private repositories.
