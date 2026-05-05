@@ -14,5 +14,5 @@ It's not much, but take into consideration the fact that I committed a whole lot
 ![](https://streak-stats.demolab.com/?user=Guilherme-A-Garcia&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-A-Garcia&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br>
 
-Note: if you see extra contributions/commits that don't seem to be connected to any public repository, I am currently<br>
-tracking progress in parallel programming language studies in private repositories.
+Note: if you see extra contributions/commits that don't seem to be connected to any public repository, I might be<br>
+tracking progress from parallel studies in private repositories.
