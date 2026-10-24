@@ -1,7 +1,7 @@
 # ✨ 'Bout Me
   Hello. I'm a Systems Development Technician, always seeking to become a better, more independent and knowledgeable person.<br> 
   Currently pursuing a Systems Analysis and Development degree at Fatec.<br> 
-  Temporarily put everything else on hold to focus on my major.<br>
+  Temporarily put everything I was previously studying on hold to focus on my major.<br>
 
 # 👨🏻‍💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Assembly(MIPS)](https://img.shields.io/badge/assembly-%23ED8B00.svg?style=for-the-badge&logo=assembly&logoColor=white)<br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br> ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br><br>
